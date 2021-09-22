@@ -1,0 +1,21 @@
+.announcement{
+    text-align: center;
+}
+.menu{
+    font-weight: bold;
+    color: blue;
+    position: sticky;
+    font-size: 28px;
+}
+html{
+    border:solid 10px;
+    border-color: red;
+}
+body{
+    background-image:linear-gradient(lightblue,white);
+    margin: 10px;
+text-align: center;
+}
+.marquee_style{
+    font-size:30px;
+}
